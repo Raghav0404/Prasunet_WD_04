@@ -358,7 +358,7 @@ a{
     display: grid;
     grid-template-areas:
         'frontend html css js bootstrap'
-        'programming c cpp python'
+        'programming c cpp java python'
         'designing figma canva . .'
         'ms-office ppt excel word .';
     grid-gap: 1vw;
@@ -429,8 +429,8 @@ a{
 #page3 .grid .bootstrap svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
 #page3 .grid .c svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.9);}
 #page3 .grid .cpp svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.9);}
-#page3 .grid .java svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
-#page3 .grid .python svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
+#page3 .grid .java svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.98);}
+#page3 .grid .python svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.5);}
 #page3 .grid .figma svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
 #page3 .grid .canva svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.8);}
 #page3 .grid .ppt svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.9);}
@@ -1195,6 +1195,4 @@ footer div.reserve{
         display: flex;
         flex-direction: column;
     }
-
 }
-
