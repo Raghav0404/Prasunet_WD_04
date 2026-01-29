@@ -413,6 +413,7 @@ a{
 #page3 .grid .programming{grid-area: programming;}
 #page3 .grid .c{grid-area: c;}
 #page3 .grid .cpp{grid-area: cpp;}
+#page3 .grid .java{grid-area: java;}
 #page3 .grid .python{grid-area: python;}
 #page3 .grid .designing{grid-area: designing;}
 #page3 .grid .figma{grid-area: figma;}
@@ -428,6 +429,7 @@ a{
 #page3 .grid .bootstrap svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
 #page3 .grid .c svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.9);}
 #page3 .grid .cpp svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.9);}
+#page3 .grid .java svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
 #page3 .grid .python svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
 #page3 .grid .figma svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.85);}
 #page3 .grid .canva svg circle{stroke-dasharray: calc(15vw*.75*3.1415*.8);}
@@ -1195,3 +1197,4 @@ footer div.reserve{
     }
 
 }
+
